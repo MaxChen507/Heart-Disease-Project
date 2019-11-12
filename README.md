@@ -1,4 +1,4 @@
-# HeartDiseaseProject
+# Heart-Disease-Project
 
 Steps to run:
 1. Start command window, navigate to correct directory (...HeartDiseaseProject)
